@@ -3,9 +3,9 @@
 """
 # Exercise 1
 
-# Norsk: Beregn transmisjons- og refleksjonskoeffisienten for en partikkel beskrevet ved en planbølge med energien E = 0.20eV som sendes inn mot et potensialtrinn med potensiell energi V0 = 0.16eV. Lag et plot som viser hvordan transmisjonskoeffisienten endrer seg n ̊ar energien øker, og kommenter resultatet.
-
-# English: Calculate the transmission and reflection coefficients for a particle described by a beam with energy E = 0.20eV and sent into a potential well with potential energy V0 = 0.16eV. Create a plot showing how the transmission coefficient changes with the energy, and comment the result.
+**Norsk**: Beregn transmisjons- og refleksjonskoeffisienten for en partikkel beskrevet ved en planbølge med energien E = 0.20eV som sendes inn mot et potensialtrinn med potensiell energi V0 = 0.16eV. Lag et plot som viser hvordan transmisjonskoeffisienten endrer seg n ̊ar energien øker, og kommenter resultatet.\
+\
+**English**: Calculate the transmission and reflection coefficients for a particle described by a beam with energy E = 0.20eV and sent into a potential well with potential energy V0 = 0.16eV. Create a plot showing how the transmission coefficient changes with the energy, and comment the result.
 """
 
 # %%
